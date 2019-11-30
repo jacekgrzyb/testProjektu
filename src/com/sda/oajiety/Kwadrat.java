@@ -1,6 +1,6 @@
 package com.sda.oajiety;
 
-public class Kwadrat implements InerfaceTest {
+public class Kwadrat implements InyterfaceTest {
 
     int a = 5;
     int b = 3;
